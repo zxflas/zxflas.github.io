@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T06:42:04.572Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bFUno0HxMNbdCysHFtR7" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T06:44:47.125Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="_Y4In1PiFyaNlrPLQoTk" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,37 +23,37 @@
         <mxCell id="Zr6cD8WPCJdPZ7BDopXq-2" value="全网安全监测拍平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="164" width="130" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-5" value="精准位置报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="110" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-7" value="GIS地图标识" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="140" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-8" value="多级权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="170" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-9" value="事件记录与还原" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="200" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-10" value="手机app" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="230" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zr6cD8WPCJdPZ7BDopXq-11" value="在线监测报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="80" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-19" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-19" value="" style="group;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="362" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-19">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-13" value="已建老管网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-19">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-19">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-14" value="采用点式监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-19">
           <mxGeometry y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-19">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-15" value="工作管泄漏、爆管、水击" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-19">
           <mxGeometry y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-20" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-20" value="" style="group;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="312" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--16" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="Zr6cD8WPCJdPZ7BDopXq-20" target="Zr6cD8WPCJdPZ7BDopXq-2" edge="1">
@@ -67,13 +67,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-20">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-16" value="新建管网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-20">
           <mxGeometry x="80" y="50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-20">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-17" value="采用分布光纤监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-20">
           <mxGeometry x="80" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-20">
+        <mxCell id="Zr6cD8WPCJdPZ7BDopXq-18" value="内外管泄漏、爆管、第三方施工侵害" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Zr6cD8WPCJdPZ7BDopXq-20">
           <mxGeometry x="80" y="130" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
